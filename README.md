@@ -1,4 +1,4 @@
-# DevChallenges.io - Minimal Blog Card
+# <h1 align-text= center> DevChallenges.io - Minimal Blog Card </h1>
 
 ![Thumbnail for the Minimal Blog Card coding challenge](./thumbnail.jpg)
 
