@@ -13,6 +13,7 @@ If you need help or have any questions, feel free to [join our community](https:
 
 ## Overview
 This project is a responsive Blog card web page built as part of the devChallenges.io Minimal Blog card challenge. 
+
 ![Desktop_1350px](https://github.com/user-attachments/assets/88ccacbb-aa8c-426a-b7dd-16d04cd98246)
 
 
