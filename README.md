@@ -19,9 +19,9 @@ This project is a responsive Blog card web page built as part of the devChalleng
 
 ### What I learned
 Through this project I gained insight on:
-- Semantic HTML: Used proper semantic elements for better accessbility
-- CSS: Implemented flexible layouts for responsive design
--  Responsive Design: Created a mobile-first structure for different screen sizes
+- Semantic HTML: Used proper semantic elements for better accessbility.
+- CSS: Implemented flexible layouts for responsive design.
+-  Responsive Design: Created a mobile-first structure for different screen sizes.
 
 ### Tech Stack
 
@@ -34,5 +34,5 @@ Through this project I gained insight on:
 I enhanced my skill through this insightful challenge provided by <a href="https://devchallenges.io/"> devChallenges.io</a> 
 
 
-## Author
+## Author 
 - GitHub <a href= "https://github.com/JohnCAdrian"> JohnCAdrian </a>
